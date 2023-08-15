@@ -1,3 +1,5 @@
+# python -m streamlit run app.py
+
 import streamlit as st
 from streamlit_chat import message
 from langchain.chains import ConversationalRetrievalChain
